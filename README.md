@@ -1,6 +1,6 @@
-👋 Hi, I’m @Jihyeong-Choi
-🌱 I’m studuying in biomedical-engineering in Korea university
-👀 Interested in computer vision and medical AI\\
+👋 Hi, I’m @Jihyeong-Choi\
+🌱 I’m studuying in biomedical-engineering in Korea university\
+👀 Interested in computer vision and medical AI\
 
 ![Jihyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeong-Choi&show_icons=true&theme=radical)
 <!---
